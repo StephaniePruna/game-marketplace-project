@@ -1,0 +1,17 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "prHourlyLimit": 3,
+  "reviewers": ["StephaniePruna"],
+  "branchPrefix": "renovate/",
+  "commitBody": "Montly Tools Patching",
+  "commitBodyTable": true,
+  "enabled": false,
+  "timezone": "Australia/Melbourne",
+  "schedule": [
+    "* * * * *"
+  ],
+  "ignoreDeps": []
+}
