@@ -8,7 +8,7 @@
   "branchPrefix": "renovate/",
   "commitBody": "Montly Tools Patching",
   "commitBodyTable": true,
-  "enabled": false,
+  "enabled": true,
   "timezone": "Australia/Melbourne",
   "schedule": [
     "* * * * *"
