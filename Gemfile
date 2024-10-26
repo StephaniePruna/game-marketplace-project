@@ -55,6 +55,6 @@ gem "devise", "~> 4.7"
 
 gem "aws-sdk-s3", "~> 1.60"
 
-gem "stripe", "~> 5.17"
+gem "stripe", "~> 13.0"
 
 gem 'sass-rails'
